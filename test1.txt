@@ -3,3 +3,7 @@ test2 new branch
 test3 edit
 test4 local edit
 test5 local edit branch2
+test6 local edit branch2
+test7 remote edit branch2
+test8 local edit branch2
+test remote edit branch2
