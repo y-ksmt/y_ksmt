@@ -7,3 +7,4 @@ test6 local edit branch2
 test7 remote edit branch2
 test8 local edit branch2
 test9 local edit branch2
+test10 remote edit master
