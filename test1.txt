@@ -1,5 +1,5 @@
 test1
 test2 new branch
 test3 edit
-test4 remoto edit
-test5 remoto edit master
+test4 local edit
+test5 local edit
