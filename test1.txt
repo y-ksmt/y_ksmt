@@ -13,3 +13,4 @@ test12 local edit master
 test13 remote edit master
 test14 remote edit master
 test15 remote edit branch2
+test16 remote edit branch2
