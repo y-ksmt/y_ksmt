@@ -1,1 +1,2 @@
 commit1 remote branch2
+commit2 local branch2
