@@ -10,3 +10,4 @@ test9 local edit branch2
 test10 remote edit master
 test11 remote edit master
 test12 local edit master
+test13 remote edit master
