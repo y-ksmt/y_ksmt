@@ -1,4 +1,8 @@
-test1.txt 6 remote master
+test1.txt 10 local branch5
+9 local branch5
+8 local branch5
+7 local branch5
+6 remote master
 5 local branch4
 4 local branch3
 3 local branch3
