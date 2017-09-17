@@ -1,16 +1,2 @@
 test1
-test2 new branch
-test3 edit
-test4 local edit
-test5 local edit branch2
-test6 local edit branch2
-test7 remote edit branch2
-test8 local edit branch2
-test9 local edit branch2
-test10 remote edit master
-test11 remote edit master
-test12 local edit master
-test13 remote edit master
-test14 remote edit master
-test15 remote edit branch2
-test16 remote edit branch2
+
