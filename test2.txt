@@ -1,2 +1,2 @@
-test2.txt
+test2.txt 2 local brancd3 
 1 local master 
