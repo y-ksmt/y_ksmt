@@ -1,3 +1,4 @@
-test2.txt 2 local master
+test2.txt 3 remote master
+2 remote master
 1 local master 
 
