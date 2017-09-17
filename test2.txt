@@ -1,3 +1,1 @@
-commit1 remote branch2
-commit2 local branch2
-commit3 remote master
+test2
