@@ -1,4 +1,4 @@
-test2.txt 4 remote master
+test2.txt 4 local branch3
 3 remote master
 2 remote master
 1 local master 
