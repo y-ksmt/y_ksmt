@@ -1,4 +1,5 @@
-test1.txt 11 local branch6
+test1.txt 12 local branch6
+11 local branch6
 10 local branch5
 9 local branch5
 8 local branch5
